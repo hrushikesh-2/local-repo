@@ -8,6 +8,4 @@ for i in list:
                 break
         else:
             print("prime numbers are :",i)
-        
     
-        
