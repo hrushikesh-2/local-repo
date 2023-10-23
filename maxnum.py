@@ -9,4 +9,4 @@ list=[10]
 for i in range(0,10):
     a=int(input("enter value:"))
     list.append(a)
-print(maxnum(list))
+print("maximum value in entered list is:",maxnum(list))
